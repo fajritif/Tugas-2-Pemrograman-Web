@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.biodata {
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.biodata h1 {
+  text-align: center;
+}
+
+.biodata ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.biodata li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 50%;
+}
+

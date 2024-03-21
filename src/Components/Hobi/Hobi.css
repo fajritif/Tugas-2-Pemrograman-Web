@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .hobi {
+    text-align: center;
+  }
+  
+  .hobi h1 {
+    margin-bottom: 20px;
+  }
+  
+  .hobi ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .hobi li {
+    margin-bottom: 10px;
+  }
+  
+  .hobi li strong {
+    margin-right: 5px;
+  }
+  
